@@ -1,0 +1,5 @@
+Minsk Brest 10
+Brest Moskow 40
+Moskow Minsk 45
+Minsk I 1
+I Moskow 70

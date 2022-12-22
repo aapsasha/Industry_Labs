@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Describes list of books-->
+<Towns>
+    <Town>
+        <firstTown>Minsk</firstTown>
+        <secondTown>Brest</secondTown>
+        <distance>100</distance>
+    </Town>
+    <Town>
+        <firstTown>Brest</firstTown>
+        <secondTown>Moskow</secondTown>
+        <distance>122</distance>
+    </Town>
+    <Town>
+        <firstTown>London</firstTown>
+        <secondTown>Moskow</secondTown>
+        <distance>400</distance>
+    </Town>
+    <Town>
+        <firstTown>Brest</firstTown>
+        <secondTown>London</secondTown>
+        <distance>200</distance>
+    </Town>
+</Towns>

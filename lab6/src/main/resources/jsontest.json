@@ -1,0 +1,12 @@
+[
+  {
+    "firstTown":"Marge",
+    "secondTown":"Simpson",
+    "distance":33
+  },
+  {
+    "firstTown":"Homer",
+    "secondTown":"Simpson",
+    "distance":44
+  }
+]

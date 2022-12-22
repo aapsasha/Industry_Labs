@@ -1,4 +1,4 @@
-package org.aapSasha.lab1;
+package org.aapsasha.lab1;
 
 import java.io.*;
 import java.math.BigDecimal;
